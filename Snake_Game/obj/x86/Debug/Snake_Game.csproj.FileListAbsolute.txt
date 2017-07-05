@@ -1,0 +1,5 @@
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Snake_Game\Snake_Game\obj\x86\Debug\Snake_Game.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Snake_Game\Snake_Game\bin\Debug\Змейка.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Snake_Game\Snake_Game\bin\Debug\Змейка.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Snake_Game\Snake_Game\obj\x86\Debug\Змейка.exe
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\Snake_Game\Snake_Game\obj\x86\Debug\Змейка.pdb
